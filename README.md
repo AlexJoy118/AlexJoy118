@@ -13,7 +13,7 @@
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <p align="center">
-  <a href="https://github.com/JustinW424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience%20in%20Web3;9+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20Full%20Stack%20Developer&center=true&width=800&height=45"></a>
+  <a href="https://github.com/AlexJoy118"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience%20in%20Web3;9+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20Full%20Stack%20Developer&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/JustinW424?label=Follow&style=social" />
@@ -55,13 +55,13 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </tr>
 </table>
 <div align="center" >
-  <a  align="center" href="https://github.com/JustinW424" title="Go to Source">
+  <a  align="center" href="https://github.com/AlexJoy118" title="Go to Source">
     <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinW424&theme=react&border=61dafb&hide_border=true" alt="JustinW424" />
   </a>
 </div>
 <div align="center" >
   <img width=55% align="left" alt="JustinW424's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinW424&theme=github_dark&show_icons=true&hide_border=false" />
-  <a align="left" href="https://github.com/JustinW424">
+  <a align="left" href="https://github.com/AlexJoy118">
     <img width=40% alt="JustinW424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinW424&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
